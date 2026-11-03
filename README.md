@@ -73,5 +73,4 @@ Reference
 Chen, D. (2015). Online Retail Data Set. UCI Machine Learning Repository.
 ---
 Ragini Gupta | BSc Data Science, SDBI
-[LinkedIn
-](www.linkedin.com/in/raginigupta21)
+[LinkedIn](https://www.linkedin.com/in/raginigupta21)
