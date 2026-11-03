@@ -40,7 +40,6 @@ Power BI dashboard
 Two pages, built on the CSVs the notebook exports:
 Page 1: KPI cards (total revenue, total customers, segments, best lift), a Recency vs Monetary scatter by segment, a segment profile table, overall association rules, and a segment slicer
 Page 2: monthly revenue trend, segment-specific rules, and a Before vs After impact panel
-![Dashboard page 2](images/dashboard_page2.png)
 Open `dashboard/Retail_Analytics_Dashboard.pbix` in Power BI Desktop.
 Repo structure
 ```
