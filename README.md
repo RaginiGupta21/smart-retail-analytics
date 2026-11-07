@@ -2,6 +2,16 @@ Retail Customer Analytics & Segmentation
 Customer segmentation (K-Means) + market basket analysis (Apriori) on a UK online retailer, with a Power BI dashboard that turns the findings into a business case.
 Built for my Data Mining & Warehousing case study.
 ---
+
+## 📊 Power BI Dashboard Preview
+
+### Dashboard - Page 1
+![Smart Retail Analytics Dashboard - Page 1](images/Dashboard_pg1.png)
+
+### Dashboard - Page 2
+![Smart Retail Analytics Dashboard - Page 2](images/Dashboard_pg2.png)
+
+---
 The problem
 Retailers collect a lot of transaction data and use very little of it. I wanted to see what two classic data mining techniques could tell a shop that, right now, treats every customer the same:
 Missed opportunities: products that are bought together aren't promoted together.
