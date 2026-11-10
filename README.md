@@ -5,6 +5,9 @@ Customer segmentation using **RFM and K-Means**, combined with **Apriori market 
 Developed as part of my Data Mining & Warehousing case study.
 
 ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-retail-analytic.streamlit.app/)
+
+**Live demo: [smart-retail-analytic.streamlit.app](https://smart-retail-analytic.streamlit.app/)**
 
 ## 📊 Power BI Dashboard Preview
 
