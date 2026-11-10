@@ -9,11 +9,7 @@ Developed as part of my Data Mining & Warehousing case study.
 
 **Live demo: [smart-retail-analytic.streamlit.app](https://smart-retail-analytic.streamlit.app/)**
 
-## Live demo
-
-Try the app in your browser, no setup needed: **[smart-retail-analytic.streamlit.app](https://smart-retail-analytic.streamlit.app/)**
-
-> The app runs on Streamlit Community Cloud, which puts free apps to sleep after a period of inactivity. If you see a "wake up" button, click it and give it a few seconds.
+> Runs on Streamlit Community Cloud. Free apps sleep after inactivity, so if you see a "wake up" button, click it and wait a few seconds.
 
 ## 📊 Power BI Dashboard Preview
 
