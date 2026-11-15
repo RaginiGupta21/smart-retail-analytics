@@ -11,7 +11,7 @@ Developed as part of my Data Mining & Warehousing case study.
 
 > Runs on Streamlit Community Cloud. Free apps sleep after inactivity, so if you see a "wake up" button, click it and wait a few seconds.
 
-## 📊 Power BI Dashboard Preview
+## Power BI Dashboard Preview
 
 ### Dashboard – Page 1
 ![Smart Retail Analytics Dashboard - Page 1](images/Dashboard_pg1.png)
